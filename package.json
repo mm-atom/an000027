@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000027",
-	"version": "1.0.202003171313",
+	"version": "1.0.202003171328",
 	"description": "微信-公众号用户基本信息",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
